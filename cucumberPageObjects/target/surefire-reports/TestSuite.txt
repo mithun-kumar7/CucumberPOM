@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 121.852 s <<< FAILURE! - in TestSuite
+feature(runner.RunCuke)  Time elapsed: 88.936 s  <<< FAILURE!
+cucumber.runtime.CucumberException: java.lang.AssertionError: expected [Bmw 1 Series nder 1000 for Sale Far West NSW | carsguide] but found [Bmw 1 Series Under 1000 for Sale Far West NSW | carsguide]
+Caused by: java.lang.AssertionError: expected [Bmw 1 Series nder 1000 for Sale Far West NSW | carsguide] but found [Bmw 1 Series Under 1000 for Sale Far West NSW | carsguide]
+
